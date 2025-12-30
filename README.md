@@ -1,5 +1,5 @@
 # bagpipes_learn
-This is a learning repository for the Bagpipes software package, primarily designed for Chinese-speaking users.
+bagpipes是一款用于对星系光谱进行建模，并拟合光谱和测光观测数据的python开源工具。
 
 本仓库示例代码来源于官方示例库，已翻译成中文，并在原文档的基础上加入了更多说明。
 后续将整理更多的示例代码完善仓库。
@@ -53,10 +53,13 @@ https://docs.astral.sh/uv/
 UV包管理器的python虚拟环境在项目文件夹（.venv）中
 
 
-注：bagpipes源码有一些bug
+# 说明
+bagpipes源码有一些bug，如果你在使用过程中出现问题可以将下面仓库抛给ai再询问。
 
 bagpipes的官方文档:https://bagpipes.readthedocs.io/en/latest/
 
 bagpipes的源码及案例教程库及:https://github.com/ACCarnall/bagpipes
 
-# 感谢Claude ai提供翻译服务
+This is a learning repository for the Bagpipes software package, primarily designed for Chinese-speaking users.
+
+感谢Claude ai提供翻译服务
