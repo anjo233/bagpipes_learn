@@ -1,7 +1,7 @@
 # bagpipes_learn
 This is a learning repository for the Bagpipes software package, primarily designed for Chinese-speaking users.
 
-本仓库示例代码来源于官方示例库，已翻译成中文
+本仓库示例代码来源于官方示例库，已翻译成中文，并在原文档的基础上加入了更多说明。
 后续将整理更多的示例代码完善仓库。
 
 # 推荐环境
