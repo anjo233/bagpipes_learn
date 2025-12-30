@@ -25,7 +25,9 @@ URL：https://johannesbuchner.github.io/pymultinest-tutorial/install.html
 
 ```pip install nautilus-sampler```
 
-说明：MultiNest包安装较为麻烦且已经不再维护，nautilus安装较为方便且不存在与其他包版本冲突的情况。
+说明：MultiNest包安装较为麻烦且已经不再维护，可能出现许多软件包版本的冲突，且官方文档中并未详细说明环境要求
+
+因此这里推荐Nautilus，nautilus安装较为方便且不存在与其他包版本冲突的情况。
 
 
 # 安装bagpipes
