@@ -48,7 +48,7 @@ https://docs.astral.sh/uv/
 
 linux&mac ```source .venv/bin/activate``` # 激活环境（Linux/mac）
 
-windown ```.venv\Scripts\Activate.ps1``` # 激活环境(win)
+windows ```.venv\Scripts\Activate.ps1``` # 激活环境(win)
 
 ```uv pip install -r requirements.txt```
 
