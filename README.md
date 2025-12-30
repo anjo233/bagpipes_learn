@@ -27,7 +27,7 @@ URL：https://johannesbuchner.github.io/pymultinest-tutorial/install.html
 
 说明：MultiNest包安装较为麻烦且已经不再维护，nautilus安装较为方便且不存在与其他包版本冲突的情况。
 
-s
+
 # 安装bagpipes
 - 使用你的包管理器（conda）
 建议新建虚拟环境
@@ -38,11 +38,13 @@ s
 
 - 使用UV包管理器（推荐）
 
- 下载部署本仓库到本地
+https://docs.astral.sh/uv/
 
-```python -m venv .venv```
+ 下载部署仓库到本地，在项目文件夹下使用以下命令
 
-```source .venv/bin/activate```
+```python -m venv .venv``` # 建立虚拟环境
+
+```source .venv/bin/activate``` # 激活环境
 
 ```uv pip install -r requirements.tst```
 
@@ -54,3 +56,5 @@ UV包管理器的python虚拟环境在项目文件夹（.venv）中
 bagpipes的官方文档:https://bagpipes.readthedocs.io/en/latest/
 
 bagpipes的源码及案例教程库及:https://github.com/ACCarnall/bagpipes
+
+# 感谢Claude ai提供翻译服务
