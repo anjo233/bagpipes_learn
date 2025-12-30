@@ -44,11 +44,13 @@ https://docs.astral.sh/uv/
 
  下载部署仓库到本地，在项目文件夹下使用以下命令
 
-```python -m venv .venv``` # 建立虚拟环境
+```uv venv .venv --python 3.10``` # 建立虚拟环境
 
-```source .venv/bin/activate``` # 激活环境
+linux&mac ```source .venv/bin/activate``` # 激活环境（Linux/mac）
 
-```uv pip install -r requirements.tst```
+windown ```.venv\Scripts\Activate.ps1``` # 激活环境(win)
+
+```uv pip install -r requirements.txt```
 
 UV包管理器的python虚拟环境在项目文件夹（.venv）中
 
