@@ -62,6 +62,10 @@ bagpipes的官方文档:https://bagpipes.readthedocs.io/en/latest/
 
 bagpipes的源码及案例教程库及:https://github.com/ACCarnall/bagpipes
 
+本仓库还包含了CIGALE软件的使用教程，同样作为星系SED Filling软件，CIGALE有许多出色的地方，你可以在目录中找到`cigale使用指南.md`文件查看该软件的使用教程。
+cigale的安装教程https://cigale.lam.fr/documentation/
+
+
 This is a learning repository for the Bagpipes software package, primarily designed for Chinese-speaking users.
 
 感谢Claude ai提供翻译服务
