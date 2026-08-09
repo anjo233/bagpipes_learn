@@ -1,3 +1,5 @@
+
+
 # bagpipes_learn
 bagpipes是一款用于对星系光谱进行建模，并拟合光谱和测光观测数据的python开源工具。
 
@@ -34,9 +36,7 @@ URL：https://johannesbuchner.github.io/pymultinest-tutorial/install.html
 - 使用你的包管理器（conda）
 建议新建虚拟环境
 
-```pip install requirements.tst```
-
-```pip install -r requirements.tst```
+```pip install -r requirements.txt```
 
 - 使用UV包管理器（推荐）
 
